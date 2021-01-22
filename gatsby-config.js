@@ -32,6 +32,6 @@ module.exports = {
       },
     },
   ],
-  pathPrefix: "/src",
+  pathPrefix: "/derickongeri.github.io",
 };
 
