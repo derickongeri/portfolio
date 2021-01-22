@@ -9,16 +9,16 @@ export const headData = {
 
 // HERO DATA
 export const heroData = {
-  title: '',
-  name: '',
-  subtitle: '',
-  cta: '',
+  title: 'Hello, my name is', 
+  name: 'Derick',
+  subtitle: 'I\'m the unknown Developer',
+  cta: 'About me',
 };
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'profile.jpg',
-  paragraphOne: '',
+  img: 'derick.jpg',
+  paragraphOne: 'I am a self-motivated and enthusiastic individual intrigued and keen towards the use of earth observation and geospatial technologies, process and workflow automation, as well as software development to solve challenges of sustainable development.',
   paragraphTwo: '',
   paragraphThree: '',
   resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
