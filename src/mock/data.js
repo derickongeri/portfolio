@@ -31,7 +31,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'project.jpg',
     title: '',
-    info: '',
+    info: 'A big advantage of SAR satellite imagery over its optical/infrared counterparts is of course weather and solar illumination independence. But for land cover classification, SAR data are relatively insensitive to vegetation/crop differences. This can be at least partly compensated by making use of time series of SAR acquisitions over a complete growth period. In this part of the course we\'ll examine this possibility with Sentinel-1 images collected on the Goggle Earthengine. There are many alternative classifiers available, such as Bayes, random forest, support vector machine, etc. We will choose to work with a neural network, essentially because of its flexibility, but also because we will continue in the next part of the course with deep learning (i.e. neural network) methods.',
     info2: '',
     url: '',
     repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
