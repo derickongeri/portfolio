@@ -29,17 +29,17 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: 'A big advantage of SAR satellite imagery over its optical/infrared counterparts is of course weather and solar illumination independence. But for land cover classification, SAR data are relatively insensitive to vegetation/crop differences. This can be at least partly compensated by making use of time series of SAR acquisitions over a complete growth period. In this part of the course we\'ll examine this possibility with Sentinel-1 images collected on the Goggle Earthengine. There are many alternative classifiers available, such as Bayes, random forest, support vector machine, etc. We will choose to work with a neural network, essentially because of its flexibility, but also because we will continue in the next part of the course with deep learning (i.e. neural network) methods.',
+    img: 'project1.jpg',
+    title: 'MISLAND-North Africa',
+    info: 'MISLAND-North Africa is an operational instrument relying on international standards for reporting SDG 15.3.1 and technical approaches allowing the delivery of regular information on land degradation indicators for six North African Countries at two levels. At the regional level(North Africa action zone) where low and medium resolution EO are used. At the pilot site level, where(customized indicators) can be developed, using medium resoultion data(landsat time series imagery and derived vegetation indices, combined with different satellite-derived climate data)',
     info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    url: 'http://172.105.246.124:8080/#/',
+    repo: '', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
+    img: 'project2.jpg',
+    title: 'Forest Fires Mapping Tool',
     info: '',
     info2: '',
     url: '',
@@ -74,7 +74,7 @@ export const footerData = {
     {
       id: nanoid(),
       name: 'codepen',
-      url: '',
+      url: 'https://codepen.io/derickongeri',
     },
     {
       id: nanoid(),
@@ -84,7 +84,7 @@ export const footerData = {
     {
       id: nanoid(),
       name: 'github',
-      url: '',
+      url: 'https://github.com/derickongeri',
     },
   ],
 };
