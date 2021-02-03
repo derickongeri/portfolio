@@ -29,17 +29,17 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
+    img: 'project1.jpg',
+    title: 'MISLAND-North Africa',
+    info: 'MISLAND-North Africa is an operational instrument relying on international standards for reporting SDG 15.3.1 and technical approaches allowing the delivery of regular information on land degradation indicators for six North African Countries at two levels. At the regional level(North Africa action zone) where low and medium resolution EO are used. At the pilot site level, where(customized indicators) can be developed, using medium resoultion data(landsat time series imagery and derived vegetation indices, combined with different satellite-derived climate data)',
     info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    url: 'http://172.105.246.124:8080/#/',
+    repo: '', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
+    img: 'project2.jpg',
+    title: 'Forest Fires Mapping Tool',
     info: '',
     info2: '',
     url: '',
@@ -74,7 +74,7 @@ export const footerData = {
     {
       id: nanoid(),
       name: 'codepen',
-      url: '',
+      url: 'https://codepen.io/derickongeri',
     },
     {
       id: nanoid(),
@@ -84,7 +84,7 @@ export const footerData = {
     {
       id: nanoid(),
       name: 'github',
-      url: '',
+      url: 'https://github.com/derickongeri',
     },
   ],
 };
