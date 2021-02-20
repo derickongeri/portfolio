@@ -17,12 +17,14 @@ export const heroData = {
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'derick.jpg',
+  img: 'derick1.jpg',
   paragraphOne:
-    'I am a self-motivated and enthusiastic individual intrigued and keen towards the use of earth observation and geospatial technologies, process and workflow automation, as well as software development to solve challenges of sustainable development.',
-  paragraphTwo: '',
-  paragraphThree: '',
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+    'Derick Ongeri is a Earth Observation and GIS expert at LocateIT Kenya Limited, a leading GeoICT service provider based in Nairobi, Kenya. He has two years’ experience developing solutions utilizing  location data, satellite imagery, geospatial processing  tools and workflows, as well as software development for a diverse array of clients. Something he does with love and passion.',
+  paragraphTwo:
+    'Derick holds a bachelors degree in Geomatics Engineering and Geospatial Information Systems from the Jomo Kenyatta University of Agriculture and Technology.',
+  paragraphThree:
+    'In his free time, he enjoys playing football, nature trails, travelling to new places, drawing or a game of chess.',
+  resume: 'https://drive.google.com/file/d/1VlysKah2eBCfgSDHCXnuSoP5dICT7ivL/view?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
@@ -62,7 +64,7 @@ export const projectsData = [
 export const contactData = {
   cta: '',
   btn: '',
-  email: '',
+  email: 'derickongeri@gmail.com',
 };
 
 // FOOTER DATA
