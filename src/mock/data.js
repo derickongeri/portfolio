@@ -51,12 +51,12 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
+    img: 'project3.png',
+    title: 'DataServe',
+    info: 'DataServe is an Open Source, Content Management System (CMS) for geospatial data. It is a web-based application and platform for developing geospatial information systems (GIS) and for deploying spatial data infrastructures (SDI).',
     info2: '',
     url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    repo: '', // if no repo, the button will not show up
   },
 ];
 
