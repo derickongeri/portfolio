@@ -11,7 +11,7 @@ export const headData = {
 export const heroData = {
   title: 'Hello, my name is',
   name: 'Derick Ongeri',
-  subtitle: "I'm a GIS|Earth Observations Expert",
+  subtitle: "GIS|Remote Sensing",
   cta: 'About me',
 };
 
@@ -19,7 +19,7 @@ export const heroData = {
 export const aboutData = {
   img: 'derick1.jpg',
   paragraphOne:
-    'Derick Ongeri is a Earth Observation and GIS expert at LocateIT Kenya Limited, a leading GeoICT service provider based in Nairobi, Kenya. He has two years’ experience developing solutions utilizing  location data, satellite imagery, geospatial processing  tools and workflows, as well as software development for a diverse array of clients. Something he does with love and passion.',
+    'Derick Ongeri is a Earth Observation and GIS expert at LocateIT Kenya Limited, a leading GeoICT service provider based in Nairobi, Kenya. He has two years’ experience developing solutions utilizing  location data, satellite imagery, geospatial processing  tools and workflows, as well as software development for a diverse array of clients. Something he does with love and passion. Environmental Modeling, Big Geospatial Data Analytics, Wetland Mapping, Surface Water Hydrology, LiDAR, GIS Programming, Python, R, Google Earth Engine',
   paragraphTwo:
     'Derick holds a bachelors degree in Geomatics Engineering and Geospatial Information Systems from the Jomo Kenyatta University of Agriculture and Technology.',
   paragraphThree:
